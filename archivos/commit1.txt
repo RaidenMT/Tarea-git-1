@@ -1,1 +1,3 @@
-este es de mi commit 1
+este es de mi commit 1.
+
+esta linea la escribi en el commit 2
